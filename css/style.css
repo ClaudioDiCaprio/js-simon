@@ -15,8 +15,41 @@ header {
     margin-top: 100px;
 }
 
+/* main{
+    text-align: center;
+} */
+
+h3 {
+    font-size: 40px;
+    /* text-decoration: underline; */
+    margin: 50px;
+}
+
+.hidden {
+    display: none;
+}
+.sad{
+    color: #0011ff;
+    font-size: 30px;
+}
+
+.alert {
+    color: #fbff00;
+    font-size: 70px;
+}
+
 .jar, .alert,.alerto {
     text-align: center;
     margin-top: 100px;
 }
 
+.casual {
+    background-color: #0011ff;
+    color: #51ff00;
+    display: inline-block;
+    border-radius: 50%;
+    width: 200px;
+    padding: 10px;
+    margin: 5px;
+    font-size: 60px;
+}
